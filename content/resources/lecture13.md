@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: Distributed Homogenous Databases
-file: /media/courses/15-565j-integrating-esystems-global-information-systems-spring-2002/20548bf79947af5e875c94b21e06fa2d_lecture13.pdf
+file: /courses/15-565j-integrating-esystems-global-information-systems-spring-2002/20548bf79947af5e875c94b21e06fa2d_lecture13.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -13,3 +14,4 @@ resourcetype: Document
 title: lecture13.pdf
 uid: 20548bf7-9947-af5e-875c-94b21e06fa2d
 ---
+Distributed Homogenous Databases
