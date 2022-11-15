@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -85,4 +86,4 @@ Sample Term Projects (from previous terms):
 
 As an MIT student, it would be nice to have a Placement Assistant System (PAS) to help decide on potential companies and prepare for interviews. There are many distributed sources for vital information. e.g., open company positions, interview dates, Alumni working in the company, contact information for relevant alumni, company industry and location information, stock performance, and current news (see range of sources below). The student is limited by the distributed nature of this information. The goal of this project is to integrate several of these sources using a web browser front-end interface to make it easier for the student make better and more informed decisions. The PAS application is to be modular so it can be scaled according to individual needs and to make it easier to incorporate new information sources. Although we will define the basic functional overview and most of the project will be along the same lines, we would like you to come up with ideas on what information should be incorporated and other technologies that might further enhance such a project.
 
-15.565 Project Background ([PDF]({{< baseurl >}}/resources/cp0))
+15.565 Project Background ({{% resource_link 992ef00b-a8f0-956c-3852-7463388e83f4 "PDF" %}})

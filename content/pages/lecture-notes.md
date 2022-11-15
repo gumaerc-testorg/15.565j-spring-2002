@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -25,7 +26,7 @@ Topics
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction ([PDF]({{< baseurl >}}/resources/lecture01))
+Introduction ({{% resource_link c6ef8e4d-6b5a-02af-1cc4-2896267d5a4e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +41,7 @@ Introduction ([PDF]({{< baseurl >}}/resources/lecture01))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Information Technology, Corporate Strategy, and Competitive Advantage (Interlinked Value Chains) ([PDF]({{< baseurl >}}/resources/lecture02))
+Information Technology, Corporate Strategy, and Competitive Advantage (Interlinked Value Chains) ({{% resource_link faada323-5066-ad98-37d0-95b72530cb65 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +59,7 @@ Strategic Case Study (Johnson & Johnson Case)
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Business and Industry Transformation (McKesson Case) ([PDF]({{< baseurl >}}/resources/lecture04))
+Business and Industry Transformation (McKesson Case) ({{% resource_link 1e11f1d7-5046-56e1-02fe-c6aa1f2283f7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +68,7 @@ Business and Industry Transformation (McKesson Case) ([PDF]({{< baseurl >}}/reso
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Aggregators: Traveling the Internet "Fast Lane" ([PDF]({{< baseurl >}}/resources/lecture_05))
+Aggregators: Traveling the Internet "Fast Lane" ({{% resource_link b6ebab4e-0c98-358a-d662-7e85bc685a91 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -82,7 +83,7 @@ Aggregators: Traveling the Internet "Fast Lane" ([PDF]({{< baseurl >}}/resources
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Basic Communications Technology and Concepts ([PDF]({{< baseurl >}}/resources/lecture06))
+Basic Communications Technology and Concepts ({{% resource_link bd432cd7-55b7-4c58-434c-f9bab324f837 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +92,7 @@ Basic Communications Technology and Concepts ([PDF]({{< baseurl >}}/resources/le
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Local Area Networks ([PDF]({{< baseurl >}}/resources/lecture07))
+Local Area Networks ({{% resource_link 7254d27d-9f21-96dd-1d84-17831f7d2f77 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -100,7 +101,7 @@ Local Area Networks ([PDF]({{< baseurl >}}/resources/lecture07))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Wide Area Networks (Packet Networks) ([PDF]({{< baseurl >}}/resources/lecture08))
+Wide Area Networks (Packet Networks) ({{% resource_link 4fe0db52-0573-eaed-cc2c-2c303ff44316 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -109,7 +110,7 @@ Wide Area Networks (Packet Networks) ([PDF]({{< baseurl >}}/resources/lecture08)
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Network Protocols (ISO OSI) ([PDF]({{< baseurl >}}/resources/lecture09))
+Network Protocols (ISO OSI) ({{% resource_link 57599d12-f997-dc9b-58d7-83ce08d5353b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -118,7 +119,7 @@ Network Protocols (ISO OSI) ([PDF]({{< baseurl >}}/resources/lecture09))
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Emerging Technologies I (Frame Relay, ATM, V-IP) ([PDF]({{< baseurl >}}/resources/lecture10))
+Emerging Technologies I (Frame Relay, ATM, V-IP) ({{% resource_link 7420e4f6-aed9-abdf-c703-7530906e0651 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,7 +128,7 @@ Emerging Technologies I (Frame Relay, ATM, V-IP) ([PDF]({{< baseurl >}}/resource
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Emerging Technologies II (ADSL, Cable Modem) ([PDF]({{< baseurl >}}/resources/lecture11))
+Emerging Technologies II (ADSL, Cable Modem) ({{% resource_link 3903d757-ddd0-0703-e1d0-fa181da78ae6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -136,7 +137,7 @@ Emerging Technologies II (ADSL, Cable Modem) ([PDF]({{< baseurl >}}/resources/le
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Technical Case Study - MIT's Network Configuration ([PDF]({{< baseurl >}}/resources/lecture12))
+Technical Case Study - MIT's Network Configuration ({{% resource_link 2a213c13-a005-11f1-19e1-dc2d8752fb56 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -151,7 +152,7 @@ Technical Case Study - MIT's Network Configuration ([PDF]({{< baseurl >}}/resour
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Distributed Homogeneous Databases ([PDF]({{< baseurl >}}/resources/lecture13))
+Distributed Homogeneous Databases ({{% resource_link 20548bf7-9947-af5e-875c-94b21e06fa2d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -169,7 +170,7 @@ Distributed Homogeneous Databases ([PDF]({{< baseurl >}}/resources/lecture13))
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Distributed Heterogeneous Databases ([PDF]({{< baseurl >}}/resources/lecture15))
+Distributed Heterogeneous Databases ({{% resource_link 0b41d696-7272-29d0-5301-9894880fd25a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -178,7 +179,7 @@ Distributed Heterogeneous Databases ([PDF]({{< baseurl >}}/resources/lecture15))
 16
 {{< tdclose >}}
 {{< tdopen >}}
-View Integration Among Databases ([PDF]({{< baseurl >}}/resources/lecture16))
+View Integration Among Databases ({{% resource_link c6e15b10-2b3c-1ce0-4a5d-e40caa0f7251 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -187,7 +188,7 @@ View Integration Among Databases ([PDF]({{< baseurl >}}/resources/lecture16))
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Web as a Database (COIN Project) ([PDF]({{< baseurl >}}/resources/lecture17))
+Web as a Database (COIN Project) ({{% resource_link 0b04a00a-e67e-8812-ff4e-6d15f70913d5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -196,7 +197,7 @@ Web as a Database (COIN Project) ([PDF]({{< baseurl >}}/resources/lecture17))
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Semantic Integration (COIN Project) ([PDF]({{< baseurl >}}/resources/lecture18))
+Semantic Integration (COIN Project) ({{% resource_link b74684e5-9d9f-3d95-1587-28787c023ded "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -205,7 +206,7 @@ Semantic Integration (COIN Project) ([PDF]({{< baseurl >}}/resources/lecture18))
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Component Architecture (CORBA) and Web Services ([PDF]({{< baseurl >}}/resources/lecture19))
+Component Architecture (CORBA) and Web Services ({{% resource_link d0266815-62d3-923c-e6b5-4ec773651807 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -220,7 +221,7 @@ Component Architecture (CORBA) and Web Services ([PDF]({{< baseurl >}}/resources
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Loosely-coupled Organizations ([PDF]({{< baseurl >}}/resources/lecture20))
+Loosely-coupled Organizations ({{% resource_link 3ef5a901-b852-4678-5561-208d5e46019e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -229,7 +230,7 @@ Loosely-coupled Organizations ([PDF]({{< baseurl >}}/resources/lecture20))
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Markets and Hierarchies: Organizational Coupling ([PDF]({{< baseurl >}}/resources/lecture21))
+Markets and Hierarchies: Organizational Coupling ({{% resource_link d3ddb2be-255b-e923-c75e-24b1bdeddc7d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -238,7 +239,7 @@ Markets and Hierarchies: Organizational Coupling ([PDF]({{< baseurl >}}/resource
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Development of Standards ([PDF]({{< baseurl >}}/resources/lecture22))
+Development of Standards ({{% resource_link f9a00f4c-8597-be17-4de8-c4fad96a1c20 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
