@@ -2,7 +2,8 @@
   "term": "Spring",
   "year": "2002",
   "level": [
-    "Undergraduate"
+    "Undergraduate",
+    "Graduate"
   ],
   "topics": [
     [
@@ -53,6 +54,7 @@
     "Projects",
     "Written Assignments with Examples"
   ],
-  "site_uid": "dde44a16-c36e-4a21-bd89-1773c5d39048",
+  "site_uid": "81b3afeb-6358-4b28-a603-abe239ec8edc",
+  "site_short_id": "15.565j-spring-2002",
   "title": "Course Metadata"
 }
