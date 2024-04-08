@@ -427,7 +427,7 @@ Semantic Integration
 
 Madnick, Stuart. _Metadata Jones and the Tower of Babel: The Challenge of Large-Scale Semantic Heterogeneity_. _Proceedings of the 1999 IEEE Meta-Data Conference_, April 6-7, 1999, pp. 1-13.
 
-> Also at: [http://hdfeos.org/forums/archive/index.php?t-196.html](http://hdfeos.org/forums/archive/index.php?t-196.html)
+> Also at: {{% resource_link "744752f8-7d12-482d-87ff-1882a05702af" "http://hdfeos.org/forums/archive/index.php?t-196.html" %}}
 > 
 > Describes the problem of semantic heterogeneity - where the same "word" may have multiple interpretations. For example, does "price" include tax or not, is it in Dollars or Pounds, etc.
 
