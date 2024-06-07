@@ -2,6 +2,7 @@
 content_type: resource
 description: Semantic Integration (COIN Project)
 file: /courses/15-565j-integrating-esystems-global-information-systems-spring-2002/b74684e59d9f3d95158728787c023ded_lecture18.pdf
+file_size: 974507
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

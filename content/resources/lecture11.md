@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Emerging Technologies II: ?The Last Mile? (xDSL/Cable Modems)'
 file: /courses/15-565j-integrating-esystems-global-information-systems-spring-2002/3903d757ddd00703e1d0fa181da78ae6_lecture11.pdf
+file_size: 164713
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

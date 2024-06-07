@@ -2,6 +2,7 @@
 content_type: resource
 description: Distributed Homogenous Databases
 file: /courses/15-565j-integrating-esystems-global-information-systems-spring-2002/20548bf79947af5e875c94b21e06fa2d_lecture13.pdf
+file_size: 204319
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
