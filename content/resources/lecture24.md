@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-565j-integrating-esystems-global-information-systems-spring-2002/571de08fb7329bd1738e41dbd2c85611_lecture24.pdf
+file_size: 46336
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

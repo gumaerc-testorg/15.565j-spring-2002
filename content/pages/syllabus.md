@@ -47,7 +47,7 @@ Most of the readings will be articles from the literature since no single book c
 
 You will be held responsible for reading the assigned materials and being prepared for class discussion. Optional or suggested readings may also be identified for various topics to allow further study for those interested in more depth.
 
-Other useful materials can be found at the {{% resource_link "8ad69a4c-6cff-462f-b90c-a3c7336a3c9f" "Association for Computing Machinery (ACM) Digital Library" %}} and the {{% resource_link "7063edd0-cac2-4a51-b142-471e80d01550" "Institute for Electronics and Electrical Engineers (IEEE) Digital Library" %}}.
+Other useful materials can be found at the [Association for Computing Machinery (ACM) Digital Library](http://www.acm.org/dl/) and the [Institute for Electronics and Electrical Engineers (IEEE) Digital Library](http://ieeexplore.ieee.org/).
 
 Assignments
 -----------
