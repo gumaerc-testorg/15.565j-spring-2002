@@ -2,6 +2,7 @@
 content_type: resource
 description: Technical Case Study - MITnet
 file: /courses/15-565j-integrating-esystems-global-information-systems-spring-2002/2a213c13a00511f119e1dc2d8752fb56_lecture12.pdf
+file_size: 85251
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

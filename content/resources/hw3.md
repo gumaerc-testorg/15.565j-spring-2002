@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Homework Assignment 3(a) + 3(b): Identify Relevant References'
 file: /courses/15-565j-integrating-esystems-global-information-systems-spring-2002/beefc2aea7bbe9af2c25ddbf0e72b2af_hw3.pdf
+file_size: 93118
 file_type: application/pdf
 learning_resource_types:
 - Assignments
