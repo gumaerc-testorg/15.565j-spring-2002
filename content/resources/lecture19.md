@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Component Architectures & Web Services
-file: /courses/15-565j-integrating-esystems-global-information-systems-spring-2002/d026681562d3923ce6b54ec773651807_lecture19.pdf
+file: /ol-ocw-studio-app/courses/15-565j-integrating-esystems-global-information-systems-spring-2002/d026681562d3923ce6b54ec773651807_lecture19.pdf
 file_size: 309658
 file_type: application/pdf
 learning_resource_types:

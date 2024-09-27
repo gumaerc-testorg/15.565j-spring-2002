@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Introduction
-file: /courses/15-565j-integrating-esystems-global-information-systems-spring-2002/c6ef8e4d6b5a02af1cc42896267d5a4e_lecture01.pdf
+file: /ol-ocw-studio-app/courses/15-565j-integrating-esystems-global-information-systems-spring-2002/c6ef8e4d6b5a02af1cc42896267d5a4e_lecture01.pdf
 file_size: 210852
 file_type: application/pdf
 learning_resource_types:

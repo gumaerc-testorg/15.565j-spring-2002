@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Wide-Area Networks(WAN): [Telephone & Internet]'
-file: /courses/15-565j-integrating-esystems-global-information-systems-spring-2002/4fe0db520573eaedcc2c2c303ff44316_lecture08.pdf
+file: /ol-ocw-studio-app/courses/15-565j-integrating-esystems-global-information-systems-spring-2002/4fe0db520573eaedcc2c2c303ff44316_lecture08.pdf
 file_size: 330923
 file_type: application/pdf
 learning_resource_types:

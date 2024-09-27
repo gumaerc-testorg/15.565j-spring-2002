@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Local Area Networks (LAN)
-file: /courses/15-565j-integrating-esystems-global-information-systems-spring-2002/7254d27d9f2196dd1d8417831f7d2f77_lecture07.pdf
+file: /ol-ocw-studio-app/courses/15-565j-integrating-esystems-global-information-systems-spring-2002/7254d27d9f2196dd1d8417831f7d2f77_lecture07.pdf
 file_size: 212644
 file_type: application/pdf
 learning_resource_types:
