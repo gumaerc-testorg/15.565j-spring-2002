@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework Assignment 2
-file: /courses/15-565j-integrating-esystems-global-information-systems-spring-2002/dc21221c25d97de4c2cd8385ae35d79d_hw2.pdf
+file: /ol-ocw-studio-app/courses/15-565j-integrating-esystems-global-information-systems-spring-2002/dc21221c25d97de4c2cd8385ae35d79d_hw2.pdf
 file_size: 140858
 file_type: application/pdf
 learning_resource_types:
