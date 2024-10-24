@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Basic Communications Technology and Concepts (Traditional)
-file: /courses/15-565j-integrating-esystems-global-information-systems-spring-2002/bd432cd755b74c58434cf9bab324f837_lecture06.pdf
+file: /ol-ocw-studio-app/courses/15-565j-integrating-esystems-global-information-systems-spring-2002/bd432cd755b74c58434cf9bab324f837_lecture06.pdf
 file_size: 363990
 file_type: application/pdf
 learning_resource_types:

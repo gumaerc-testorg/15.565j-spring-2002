@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Inter- and Intra-Organizational Systems
-file: /courses/15-565j-integrating-esystems-global-information-systems-spring-2002/1e11f1d7504656e102fec6aa1f2283f7_lecture04.pdf
+file: /ol-ocw-studio-app/courses/15-565j-integrating-esystems-global-information-systems-spring-2002/1e11f1d7504656e102fec6aa1f2283f7_lecture04.pdf
 file_size: 150750
 file_type: application/pdf
 learning_resource_types:

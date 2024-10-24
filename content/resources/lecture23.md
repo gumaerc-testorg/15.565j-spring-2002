@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-565j-integrating-esystems-global-information-systems-spring-2002/4e03ae7cbb6cab580f83a866ba8d95e7_lecture23.pdf
+file: /ol-ocw-studio-app/courses/15-565j-integrating-esystems-global-information-systems-spring-2002/4e03ae7cbb6cab580f83a866ba8d95e7_lecture23.pdf
 file_size: 53261
 file_type: application/pdf
 learning_resource_types:
