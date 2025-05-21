@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample Mid-term Examination
-file: /ol-ocw-studio-app/courses/15-565j-integrating-esystems-global-information-systems-spring-2002/f169a0b972a7ec81b47fba1ae1ba9a25_sample_old_mid_term.pdf
+file: /courses/15-565j-integrating-esystems-global-information-systems-spring-2002/f169a0b972a7ec81b47fba1ae1ba9a25_sample_old_mid_term.pdf
 file_size: 330898
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Emerging Technologies I: The Future of the Internet (ASYNCHRONOUS TRANSFER
   MODE)'
-file: /ol-ocw-studio-app/courses/15-565j-integrating-esystems-global-information-systems-spring-2002/7420e4f6aed9abdfc7037530906e0651_lecture10.pdf
+file: /courses/15-565j-integrating-esystems-global-information-systems-spring-2002/7420e4f6aed9abdfc7037530906e0651_lecture10.pdf
 file_size: 176838
 file_type: application/pdf
 learning_resource_types:

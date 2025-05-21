@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Schema Integration Among Databases
-file: /ol-ocw-studio-app/courses/15-565j-integrating-esystems-global-information-systems-spring-2002/c6e15b102b3c1ce04a5de40caa0f7251_lecture16.pdf
+file: /courses/15-565j-integrating-esystems-global-information-systems-spring-2002/c6e15b102b3c1ce04a5de40caa0f7251_lecture16.pdf
 file_size: 182388
 file_type: application/pdf
 learning_resource_types:

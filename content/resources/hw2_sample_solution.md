@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework Assignment 2 - Sample Solutions
-file: /ol-ocw-studio-app/courses/15-565j-integrating-esystems-global-information-systems-spring-2002/9c63d7aabeb93a6ac796e410ddd8ef63_hw2_sample_solution.pdf
+file: /courses/15-565j-integrating-esystems-global-information-systems-spring-2002/9c63d7aabeb93a6ac796e410ddd8ef63_hw2_sample_solution.pdf
 file_size: 243016
 file_type: application/pdf
 learning_resource_types:
