@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Homework Assignment 1: Johnson & Johnson Case'
-file: /ol-ocw-studio-app/courses/15-565j-integrating-esystems-global-information-systems-spring-2002/8f31c8a7344177c1e829ae3997489882_hw1.pdf
+file: /courses/15-565j-integrating-esystems-global-information-systems-spring-2002/8f31c8a7344177c1e829ae3997489882_hw1.pdf
 file_size: 93017
 file_type: application/pdf
 learning_resource_types:

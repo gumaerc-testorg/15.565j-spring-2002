@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Tightly- versus Loosely-coupled Organizations: Examples from ERP'
-file: /ol-ocw-studio-app/courses/15-565j-integrating-esystems-global-information-systems-spring-2002/3ef5a901b85246785561208d5e46019e_lecture20.pdf
+file: /courses/15-565j-integrating-esystems-global-information-systems-spring-2002/3ef5a901b85246785561208d5e46019e_lecture20.pdf
 file_size: 164869
 file_type: application/pdf
 learning_resource_types:

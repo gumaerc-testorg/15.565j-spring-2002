@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Web as a Database: Evolution of XML'
-file: /ol-ocw-studio-app/courses/15-565j-integrating-esystems-global-information-systems-spring-2002/0b04a00ae67e8812ff4e6d15f70913d5_lecture17.pdf
+file: /courses/15-565j-integrating-esystems-global-information-systems-spring-2002/0b04a00ae67e8812ff4e6d15f70913d5_lecture17.pdf
 file_size: 564515
 file_type: application/pdf
 learning_resource_types:
