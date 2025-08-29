@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Network Protocols
-file: /courses/15-565j-integrating-esystems-global-information-systems-spring-2002/57599d12f997dc9b58d783ce08d5353b_lecture09.pdf
+file: /ol-ocw-studio-app/courses/15-565j-integrating-esystems-global-information-systems-spring-2002/57599d12f997dc9b58d783ce08d5353b_lecture09.pdf
 file_size: 194177
 file_type: application/pdf
 learning_resource_types:
