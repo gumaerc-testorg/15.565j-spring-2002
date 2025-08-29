@@ -2,7 +2,7 @@
 content_type: resource
 description: 'CP0 -- Computer Project Introduction: Placement Assistance System (PAS),
   Operational Scenario and General Overview'
-file: /courses/15-565j-integrating-esystems-global-information-systems-spring-2002/992ef00ba8f0956c38527463388e83f4_cp0.pdf
+file: /ol-ocw-studio-app/courses/15-565j-integrating-esystems-global-information-systems-spring-2002/992ef00ba8f0956c38527463388e83f4_cp0.pdf
 file_size: 270594
 file_type: application/pdf
 learning_resource_types:

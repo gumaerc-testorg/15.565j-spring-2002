@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Market vs. Hierarchy: Factors Impacting Organizational Connectivity'
-file: /courses/15-565j-integrating-esystems-global-information-systems-spring-2002/d3ddb2be255be923c75e24b1bdeddc7d_lecture21.pdf
+file: /ol-ocw-studio-app/courses/15-565j-integrating-esystems-global-information-systems-spring-2002/d3ddb2be255be923c75e24b1bdeddc7d_lecture21.pdf
 file_size: 164266
 file_type: application/pdf
 learning_resource_types:

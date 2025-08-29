@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Development of Standards: Focus on Data Standards'
-file: /courses/15-565j-integrating-esystems-global-information-systems-spring-2002/f9a00f4c8597be174de8c4fad96a1c20_lecture22.pdf
+file: /ol-ocw-studio-app/courses/15-565j-integrating-esystems-global-information-systems-spring-2002/f9a00f4c8597be174de8c4fad96a1c20_lecture22.pdf
 file_size: 103029
 file_type: application/pdf
 learning_resource_types:
